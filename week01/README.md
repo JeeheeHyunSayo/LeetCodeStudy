@@ -26,8 +26,8 @@
 
 | Problem                             | Status | Review |
 | ----------------------------------- | ------ | ------ |
-| Remove Duplicates from Sorted Array | ⬜      | ⬜      |
-| Best Time to Buy and Sell Stock     | ⬜      | ⬜      |
+| Remove Duplicates from Sorted Array | ✅      | ⬜      |
+| Best Time to Buy and Sell Stock     | ✅      | ⬜      |
 | Rotate Array                        | ⬜      | ⬜      |
 | Contains Duplicate                  | ⬜      | ⬜      |
 | Single Number                       | ⬜      | ⬜      |
