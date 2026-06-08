@@ -3,7 +3,7 @@
 ## Goal
 
 - Complete LeetCode Top Interview Questions Easy
-- Duration: 8 Weeks
+- Duration: 4 Weeks
 - Language: Python
 - Focus on patterns, not memorization
 
@@ -13,28 +13,19 @@
 
 | Week | Topic | Status |
 |--------|--------|--------|
-| 1 | Array | ⬜ |
-| 2 | String | ⬜ |
-| 3 | Linked List | ⬜ |
-| 4 | Trees | ⬜ |
-| 5 | DP | ⬜ |
-| 6 | Design | ⬜ |
-| 7 | Math | ⬜ |
-| 8 | Others | ⬜ |
-
+| 1 | Array + Sorting and Searching| ⬜ |
+| 2 | String + Math | ⬜ |
+| 3 | Linked List + Trees | ⬜ |
+| 4 | DP + Design + Others | ⬜ |
 
 ---
 
 ## Progress
 
-- [ ] Week 1
-- [ ] Week 2
-- [ ] Week 3
-- [ ] Week 4
-- [ ] Week 5
-- [ ] Week 6
-- [ ] Week 7
-- [ ] Week 8
+- [ ] Week 1 - Array
+- [ ] Week 2 - String + Math
+- [ ] Week 3 - Linked List + Trees
+- [ ] Week 4 - DP + Design + Others
 
 ---
 
