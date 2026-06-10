@@ -28,9 +28,9 @@
 | ----------------------------------- | ------ | ------ |
 | Remove Duplicates from Sorted Array | ⬜      | ⬜      |
 | Best Time to Buy and Sell Stock     | ⬜      | ⬜      |
-| Rotate Array                        | ⬜      | ⬜      |
+| Rotate Array                        | ✅      | ⬜      |
 | Contains Duplicate                  | ⬜      | ⬜      |
-| Single Number                       | ⬜      | ⬜      |
+| Single Number                       | ✅      | ⬜      |
 | Intersection of Two Arrays II       | ⬜      | ⬜      |
 | Plus One                            | ⬜      | ⬜      |
 | Move Zeroes                         | ⬜      | ⬜      |
