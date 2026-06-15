@@ -32,8 +32,8 @@
 | Contains Duplicate                  | ✅      | ⬜      |
 | Single Number                       | ✅      | ⬜      |
 | Intersection of Two Arrays II       | ✅      | ⬜      |
-| Plus One                            | ⬜      | ⬜      |
-| Move Zeroes                         | ⬜      | ⬜      |
+| Plus One                            | ✅      | ⬜      |
+| Move Zeroes                         | ✅      | ⬜      |
 | Two Sum                             | ✅      | ⬜      |
 | Valid Sudoku                        | ⬜      | ⬜      |
 | Rotate Image                        | ⬜      | ⬜      |
