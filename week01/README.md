@@ -35,15 +35,15 @@
 | Plus One                            | ✅      | ⬜      |
 | Move Zeroes                         | ✅      | ⬜      |
 | Two Sum                             | ✅      | ⬜      |
-| Valid Sudoku                        | ⬜      | ⬜      |
-| Rotate Image                        | ⬜      | ⬜      |
+| Valid Sudoku                        | ✅      | ⬜      |
+| Rotate Image                        | ✅      | ⬜      |
 
 ### Sorting and Searching
 
 | Problem            | Status | Review |
 | ------------------ | ------ | ------ |
-| Merge Sorted Array | ⬜      | ⬜      |
-| First Bad Version  | ⬜      | ⬜      |
+| Merge Sorted Array | ✅      | ⬜      |
+| First Bad Version  | ✅      | ⬜      |
 
 ---
 
