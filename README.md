@@ -22,7 +22,7 @@
 
 ## Progress
 
-- [ ] Week 1 - Array + Sorting and Searching
+- [X] Week 1 - Array + Sorting and Searching
 - [ ] Week 2 - String + Math
 - [ ] Week 3 - Linked List + Trees
 - [ ] Week 4 - DP + Design + Others
