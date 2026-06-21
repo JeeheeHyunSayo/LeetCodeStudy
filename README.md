@@ -14,7 +14,7 @@
 | Week | Topic | Status |
 |--------|--------|--------|
 | 1 | Array + Sorting and Searching| ✅ |
-| 2 | String + Math | ⬜ |
+| 2 | String + Math | ✅ |
 | 3 | Linked List + Trees | ⬜ |
 | 4 | DP + Design + Others | ⬜ |
 
