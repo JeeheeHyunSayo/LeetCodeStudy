@@ -33,7 +33,7 @@
 | Single Number                       | ✅      | ⬜      |
 | Intersection of Two Arrays II       | ✅      | ⬜      |
 | Plus One                            | ✅      | ⬜      |
-| Move Zeroes                         | ✅      | ⬜      |
+| Move Zeroes                         | ✅     | ⬜      |
 | Two Sum                             | ✅      | ⬜      |
 | Valid Sudoku                        | ✅      | ⬜      |
 | Rotate Image                        | ✅      | ⬜      |
